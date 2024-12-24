@@ -197,4 +197,8 @@ h_{21} & h_{22} & h_{23} \\
    - Use $\((\lfloor x \rfloor, \lfloor y \rfloor)\)$ (or a suitable interpolation) to **map the RGB values** from the *Alex image* to the frame image.  
 3. The result is the *Alex image* warped into the region defined by the mask in the frame image.
 
+## Results
+
+![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/results.png)
+
 ---
