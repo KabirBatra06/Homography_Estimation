@@ -198,10 +198,15 @@ h_{21} & h_{22} & h_{23} \\
 3. The result is the *Alex image* warped into the region defined by the mask in the frame image.
 
 ## Results
-![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/img1.jpg)
+
+<p align="center">
+  <img src="https://github.com/KabirBatra06/Homography_Estimation/blob/main/img1.jpg" width="350" title="hover text">
+  <img src="https://github.com/KabirBatra06/Homography_Estimation/blob/main/img1.jpg" width="350" alt="accessibility text">
+</p>
+<!-- ![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/img1.jpg)
 ![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/img2.jpg)
 ![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/img3.jpg)
 ![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/alex_honnold.jpg)
-![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/results.png)
+![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/results.png) -->
 
 ---
