@@ -202,9 +202,11 @@ h_{21} & h_{22} & h_{23} \\
 <p align="center">
   <img src="https://github.com/KabirBatra06/Homography_Estimation/blob/main/img1.jpg" width="350" title="Frame A">
   <img src="https://github.com/KabirBatra06/Homography_Estimation/blob/main/img2.jpg" width="350" title="Frame B">
+ <br>
   <img src="https://github.com/KabirBatra06/Homography_Estimation/blob/main/img3.jpg" width="350" title="Frame C">
   <img src="https://github.com/KabirBatra06/Homography_Estimation/blob/main/alex_honnold.jpg" width="350" title="Alex">
-  <img src="https://github.com/KabirBatra06/Homography_Estimation/blob/main/results.jpg" width="350" title="Results">
+ <br>
+  <img src="https://github.com/KabirBatra06/Homography_Estimation/blob/main/results.png" width="350" title="Results">
 </p>
 <!-- ![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/img1.jpg)
 ![alt text](https://github.com/KabirBatra06/Homography_Estimation/blob/main/img2.jpg)
